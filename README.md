@@ -4,11 +4,11 @@ Distributed System Project 2
 Project information
 ------------------------------------------------------------------------------
 
-This project is for COMP90015 Distributed System Project1, 2018 SM1
+This project is for COMP90015 Distributed System, 2018 SM1
 
 Team members:
-Linghan Zhou
 Xueyang Ding
+Linghan Zhou
 Chenfeng Liao
 Zhenyuan Ye
 
